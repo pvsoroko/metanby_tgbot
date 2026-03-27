@@ -1,5 +1,0 @@
-cd /var/project/bot
-git status                      # посмотреть изменённые файлы
-git add .                       # добавить все изменения (или конкретные файлы)
-git commit -m "Описание изменений"
-git push origin main            # отправить в ветку main
