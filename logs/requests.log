@@ -1,0 +1,186 @@
+# Лог очищен 2026-03-26 09:24:57
+2026-03-26 09:24:59 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: view_logs_menu | Message: 14027
+2026-03-26 09:25:03 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: view_log:debug.log:0 | Message: 14027
+2026-03-26 09:25:06 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: clean_log:debug.log | Message: 14027
+2026-03-26 09:25:08 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: view_logs_menu | Message: 14027
+2026-03-26 09:25:12 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_storage_back | Message: 14027
+2026-03-26 09:25:15 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: view_logs_menu | Message: 14028
+2026-03-26 09:25:29 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🛠 Управление кнопками
+2026-03-26 09:49:34 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_back | Message: 14030
+2026-03-26 09:49:36 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_storage_back | Message: 14028
+2026-03-26 09:49:38 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_back | Message: 14032
+2026-03-26 09:49:40 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📊 Статистика
+2026-03-26 09:49:48 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👥 Управление персоналом
+2026-03-26 09:50:11 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🗃 Управление хранилищем
+2026-03-26 09:50:13 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: view_logs_menu | Message: 14039
+2026-03-26 09:50:16 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_storage_back | Message: 14039
+2026-03-26 09:50:18 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: view_users_menu | Message: 14040
+2026-03-26 09:50:23 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_storage_back | Message: 14040
+2026-03-26 09:50:25 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_back | Message: 14041
+2026-03-26 09:50:26 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_back | Message: 14037
+2026-03-26 09:50:28 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 10:46:03 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👑 Админ-панель
+2026-03-26 10:46:04 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🛠 Управление кнопками
+2026-03-26 11:50:18 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: -1003730582939 | Text: [не текст]
+2026-03-26 11:50:53 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: toggle_button_publish_to_group | Message: 14049
+2026-03-26 11:51:00 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 11:51:02 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 11:51:05 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 11:51:06 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 11:51:16 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11086 | Message: 14058
+2026-03-26 11:52:50 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 11:52:52 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 11:52:53 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 11:53:02 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11087 | Message: 14071
+2026-03-26 11:54:21 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 11:54:23 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 11:54:25 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 11:54:32 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11088 | Message: 14084
+2026-03-26 11:55:00 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👑 Админ-панель
+2026-03-26 11:55:01 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🛠 Управление кнопками
+2026-03-26 12:56:44 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 12:56:46 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 12:56:48 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 12:56:49 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 12:56:59 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11089 | Message: 14103
+2026-03-26 13:03:28 - 📨 СООБЩЕНИЕ | User: 1087968824 (@GroupAnonymousBot) | Chat: -2071105023758 | Text: [не текст]
+2026-03-26 13:16:04 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 13:16:07 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 13:16:08 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 13:19:34 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 13:19:36 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 13:19:38 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 13:42:07 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 13:42:12 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: тестттттттттттттттттттттт
+2026-03-26 13:42:22 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 1234124рлдуцпоцуо йолп дйкужпл шщукп олзэщпкцу шщжрпоудкл пзукшцр пцукукцо прклурпшщцур кпш рцужкщ п
+2026-03-26 13:44:51 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👑 Админ-панель
+2026-03-26 13:44:55 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🛠 Управление кнопками
+2026-03-26 13:44:58 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: toggle_button_publish_to_group | Message: 14148
+2026-03-26 14:23:52 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🛠 Управление кнопками
+2026-03-26 14:23:55 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: toggle_button_publish_to_group | Message: 14152
+2026-03-26 14:24:00 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 14:24:01 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 14:24:11 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: теееееееееееееееееееееееееест
+2026-03-26 14:24:15 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: теееееееееееееееееееееееееееееееееееееест
+2026-03-26 14:24:27 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:245 | Message: 14161
+2026-03-26 14:45:25 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👑 Админ-панель
+2026-03-26 14:45:27 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🛠 Управление кнопками
+2026-03-26 14:45:30 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: toggle_button_contract | Message: 14169
+2026-03-26 14:45:31 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 14:45:49 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ❓ Консультация со специалистом
+2026-03-26 14:45:51 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ❌ Отменить вопрос
+2026-03-26 14:45:53 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ❓ Консультация со специалистом
+2026-03-26 14:46:07 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 14:46:12 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🔧 Модераторское меню
+2026-03-26 14:46:14 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📋 Неотвеченные вопросы
+2026-03-26 14:46:18 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: next_question_18 | Message: 14185
+2026-03-26 14:46:38 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: skip_18 | Message: 14185
+2026-03-26 14:46:40 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📋 Неотвеченные вопросы
+2026-03-26 14:46:44 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: cancel_question | Message: 14188
+2026-03-26 14:46:50 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 14:46:53 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👑 Админ-панель
+2026-03-26 14:46:57 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 14:47:15 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🔧 Модераторское меню
+2026-03-26 14:47:19 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📝 Просмотреть договоры
+2026-03-26 14:47:23 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📋 Неотвеченные вопросы
+2026-03-26 14:50:40 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 14:50:42 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 14:50:45 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 14:50:47 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 14:51:30 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11096 | Message: 14209
+2026-03-26 14:54:55 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: activate_news:11096 | Message: 14209
+2026-03-26 14:54:58 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11096 | Message: 14209
+2026-03-26 14:55:00 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 14:55:03 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 14:55:04 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 14:55:08 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:247:11098 | Message: 14222
+2026-03-26 14:55:09 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11098 | Message: 14222
+2026-03-26 14:55:12 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 14:55:13 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 14:55:15 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 14:55:17 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11099 | Message: 14233
+2026-03-26 14:59:59 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:00:21 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:00:22 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:00:29 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11100 | Message: 14246
+2026-03-26 15:00:41 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11100 | Message: 14246
+2026-03-26 15:00:53 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:249:11100 | Message: 14246
+2026-03-26 15:00:55 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11100 | Message: 14246
+2026-03-26 15:11:56 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:12:07 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:12:09 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:12:14 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11101 | Message: 14259
+2026-03-26 15:12:27 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:250:11101 | Message: 14259
+2026-03-26 15:12:28 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11101 | Message: 14259
+2026-03-26 15:12:34 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: activate_news:11101 | Message: 14259
+2026-03-26 15:13:36 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:13:39 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:13:40 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:13:50 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11102 | Message: 14270
+2026-03-26 15:14:00 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11102 | Message: 14270
+2026-03-26 15:19:05 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:19:16 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ❌ Отменить заполнение
+2026-03-26 15:19:18 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:19:20 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:19:21 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:19:27 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11103 | Message: 14287
+2026-03-26 15:19:40 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11103 | Message: 14287
+2026-03-26 15:19:49 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11103 | Message: 14287
+2026-03-26 15:20:33 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:252:11103 | Message: 14287
+2026-03-26 15:20:44 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11103 | Message: 14287
+2026-03-26 15:24:24 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:24:35 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:24:37 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:24:45 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11104 | Message: 14300
+2026-03-26 15:28:42 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:253:11104 | Message: 14300
+2026-03-26 15:29:54 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ❓ Консультация со специалистом
+2026-03-26 15:29:57 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 345
+2026-03-26 15:29:59 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🔧 Модераторское меню
+2026-03-26 15:30:01 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📋 Неотвеченные вопросы
+2026-03-26 15:30:02 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: next_question_19 | Message: 14314
+2026-03-26 15:32:08 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: cancel_question | Message: 14314
+2026-03-26 15:34:53 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:253:11104 | Message: 14300
+2026-03-26 15:35:05 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11104 | Message: 14300
+2026-03-26 15:40:10 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📋 Неотвеченные вопросы
+2026-03-26 15:40:12 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: next_question_19 | Message: 14318
+2026-03-26 15:40:13 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: prev_question_20 | Message: 14318
+2026-03-26 15:40:15 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 15:40:18 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:40:22 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:40:29 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 132
+2026-03-26 15:40:38 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11105 | Message: 14327
+2026-03-26 15:40:46 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:254:11105 | Message: 14327
+2026-03-26 15:42:13 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11105 | Message: 14327
+2026-03-26 15:47:43 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11105 | Message: 14327
+2026-03-26 15:47:45 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:254:11105 | Message: 14327
+2026-03-26 15:47:47 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:254:11105 | Message: 14327
+2026-03-26 15:47:50 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:47:52 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:47:54 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:47:56 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11106 | Message: 14340
+2026-03-26 15:47:59 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:255:11106 | Message: 14340
+2026-03-26 15:48:02 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11106 | Message: 14340
+2026-03-26 15:48:06 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:255:11106 | Message: 14340
+2026-03-26 15:55:08 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:55:10 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:55:13 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:55:22 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11107 | Message: 14353
+2026-03-26 15:55:31 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: activate_news:11107 | Message: 14353
+2026-03-26 15:55:38 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11107 | Message: 14353
+2026-03-26 15:55:39 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: delete_group_message:-1001105023758:256:11107 | Message: 14353
+2026-03-26 15:55:46 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: activate_news:11107 | Message: 14353
+2026-03-26 15:56:22 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👑 Админ-панель
+2026-03-26 15:56:24 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🛠 Управление кнопками
+2026-03-26 15:56:26 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: toggle_button_publish_to_group | Message: 14361
+2026-03-26 15:56:28 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: ⬅️ Главное меню
+2026-03-26 15:56:45 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 📰 Добавить новость на сайт
+2026-03-26 15:56:47 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:56:49 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 123
+2026-03-26 15:56:58 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11108 | Message: 14370
+2026-03-27 06:06:25 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: activate_news:11108 | Message: 14370
+2026-03-27 06:06:29 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: deactivate_news:11108 | Message: 14370
+2026-03-27 06:06:37 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👑 Админ-панель
+2026-03-27 06:06:40 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 🛠 Управление кнопками
+2026-03-27 06:06:46 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: toggle_button_contract | Message: 14378
+2026-03-27 06:07:00 - 🖱️ CALLBACK | User: 233014097 (@p_soroko) | Data: admin_back | Message: 14378
+2026-03-27 06:07:22 - 📨 СООБЩЕНИЕ | User: 233014097 (@p_soroko) | Chat: 233014097 | Text: 👥 Управление персоналом
