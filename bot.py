@@ -1440,6 +1440,20 @@ async def check_site_applications():
                                     # ========== ДОГОВОР ФИЗ. ЛИЦА (инфоблок 43) ==========
                                     elif iblock_id == 43 or app_type == 'contract_physical':
                                         name = app.get('name', 'не указано')
+                                        detail_text = app.get('detail_text', '')
+                                        
+                                        # Сохраняем в БД
+                                        app_id = await conn.fetchval("""
+                                            INSERT INTO site_applications (
+                                                app_type, applicant_name, applicant_phone, 
+                                                applicant_email, applicant_comment, form_data, 
+                                                site_record_id, status, received_at
+                                            ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
+                                            RETURNING id
+                                        """,
+                                            db_type, name, '', '', detail_text, json.dumps({}),
+                                            site_record_id, 'pending', datetime.now()
+                                        )
                                         
                                         notify_text = f"📋 Заявка на заключение договора с физическим лицом!\n\n"
                                         notify_text += f"👤 ФИО: {html.escape(name)}\n"
@@ -1455,6 +1469,19 @@ async def check_site_applications():
                                     # ========== ДОГОВОР ЮР. ЛИЦА (инфоблок 42) ==========
                                     elif iblock_id == 42 or app_type == 'contract_legal':
                                         name = app.get('name', 'не указано')
+                                        detail_text = app.get('detail_text', '')
+                                        
+                                        app_id = await conn.fetchval("""
+                                            INSERT INTO site_applications (
+                                                app_type, applicant_name, applicant_phone, 
+                                                applicant_email, applicant_comment, form_data, 
+                                                site_record_id, status, received_at
+                                            ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
+                                            RETURNING id
+                                        """,
+                                            db_type, name, '', '', detail_text, json.dumps({}),
+                                            site_record_id, 'pending', datetime.now()
+                                        )
                                         
                                         notify_text = f"📋 Заявка на заключение договора с юридическим лицом!\n\n"
                                         notify_text += f"🏢 Организация: {html.escape(name)}\n"
